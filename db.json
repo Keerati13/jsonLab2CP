@@ -1,19 +1,19 @@
 {
   "events": [
     {
-      "id": 1331311,
+      "id": 5928101,
       "category": "animal welfare",
-      "title": "Dog Adoption Day",
+      "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
-      "date": "January 30, 2022",
-      "time": "22:00",
+      "date": "January 28, 2022",
+      "time": "12:00",
       "petsAllowed": true,
       "organizer": "Kat Laydee"
     },
     {
-      "id": 5652668,
-      "category": "foot",
+      "id": 4582797,
+      "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
-    }
+    },
+    {
+      "id": 1234567,
+      "category": "technology",
+      "title": "Hackathon for Good",
+      "description": "Join us for a hackathon to develop tech solutions for social good.",
+      "location": "Tech Hub",
+      "date": "September 10, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Tech Innovations"
+    }    
   ]
 }
